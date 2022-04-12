@@ -1,0 +1,12 @@
+{
+  "prefix": "ticket!",
+  "main_token": "OTYwNTQyNTM4NTc2NTcyNDE2.Ykr88w.HWkxAG_d9xSLIH25gEfDDVM_5RM",
+  "developers": ["Ich"],
+  "bot_name":"|Richmond-RP.de Support|",
+  "emoji":"🎟️",
+  "color":"",
+  "ticket_limit":"3",
+  "support_role_id":"960247894554857500",
+  "category_id":"960559082018848909",
+  "log_channel_id":"960247895007850592"
+}
